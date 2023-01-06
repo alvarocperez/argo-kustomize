@@ -11,5 +11,3 @@ spec:
     path: ch03/kustomize-installation
     repoURL: https://github.com/alvarocperez/argo-kustomize.git
     targetRevision: master
-  syncPolicy:
-    automated: { }

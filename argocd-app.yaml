@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: /
+    path: ch03/kustomize-installation
     repoURL: https://github.com/alvarocperez/argo-kustomize.git
     targetRevision: master
   syncPolicy:
